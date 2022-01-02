@@ -6,14 +6,13 @@
       {"name":"OVH","url":"https://www.ovh.com/","image":"ovh-logo.png"},
       {"name":"Google Chrome","url":"https://www.google.com/chrome/","image":"chrome-logo.png", "nofollow":true},
       {"name":"Internet Society","url":"https://www.internetsociety.org/","image":"isoc-logo.png"},
-      {"name":"Facebook","url":"https://www.facebook.com/","image":"facebook-logo.png"},
+      {"name":"Meta","url":"https://www.meta.com/","image":"meta-logo.png"},
       {"name":"Amazon Web Services","url":"https://aws.amazon.com/","image":"aws-logo.png"},
       {"name":"Bill and Melinda Gates Foundation","url":"https://www.gatesfoundation.org/","image":"gates-foundation-logo.png"}
 ],
 "gold":[
       {"name":"IdenTrust","url":"https://www.identrust.com/","image":"identrust-logo.png"},
       {"name":"Ford Foundation","url":"https://www.fordfound.org/","image":"ford-foundation-logo.png"},
-      {"name":"Avast","url":"https://www.avast.com/","image":"avast-logo.png"},
       {"name":"Reprise Software","url":"https://reprisesoftware.com/","image":"reprise-software-logo.png"},
       {"name":"Automattic","url":"https://automattic.com/","image":"automattic-logo.png"},
       {"name":"Shopify","url":"https://www.shopify.com/","image":"shopify-logo.png"}
@@ -92,12 +91,14 @@
       {"name":"Video Downloader","url":"https://www.4kdownload.com/products/product-videodownloader","image":"4kdownload-logo.png"},
       {"name":"Duda","url":"https://www.duda.co/","image":"duda-logo.png"},
       {"name":"Ads.com","url":"https://www.ads.com/","image":"ads-com-logo.png"},
+      {"name":"cdmon","url":"https://www.cdmon.com/es/","image":"cdmon-logo.png"},
       {"name":"Teleport","url":"https://goteleport.com/","image":"teleport-logo.png"},
       {"name":"AIOZ","url":"https://aioz.network/","image":"aioz-logo.png"},
       {"name":"vpnXpert","url":"https://vpnxpert.com/","image":"vpnxpert-logo.png"},
       {"name":"NGINX","url":"https://www.nginx.com/","image":"nginx-logo.png"},
       {"name":"1password","url":"https://1password.com/","image":"1password-logo.png"},
       {"name":"Vilros","url":"https://vilros.com/","image":"vilros-logo.png"},
-      {"name":"Media Network","url":"https://media.network/","image":"media-network-logo.png"}
+      {"name":"Media Network","url":"https://media.network/","image":"media-network-logo.png"},
+      {"name":"Acton Family Giving","url":"https://actonfamilygiving.org/","image":"acton-family-giving-logo.png"}
 ]
 }

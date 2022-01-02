@@ -9,6 +9,8 @@ Check [existing translation pull-requests](https://github.com/letsencrypt/websit
 
 You can help with the translation work on https://crowdin.com/project/lets-encrypt-website
 
+How to use Crowdin: https://support.crowdin.com/online-editor/
+
 ## How to add a new language
 
 If you are interested to add a new language, please open an issue with the information requested in:
@@ -18,7 +20,17 @@ If you are interested to add a new language, please open an issue with the infor
 
 Someone from Let's Encrypt will add the language to Crowdin so you can start translating on https://crowdin.com/project/lets-encrypt-website
 
-When enough pages are translated, someone from Let's Encrypt will create the first pull request:
+The first files that needs to be translated on Crowdin are:
+- `en.toml`
+- `content/about.md`
+- `content/getting-started.md`
+
+It's also preferable to translated first:
+- `content/client-options.md`
+- `content/how-it-works.md`
+- `content/faq.md`
+
+When enough pages are translated on Crowdin, someone from Let's Encrypt will create the first pull request:
 
 ### First pull-request
 
